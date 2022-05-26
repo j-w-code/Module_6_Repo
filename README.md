@@ -49,7 +49,7 @@ df.hvplot.points("")
 ```
 This code will plot a graph using points across a geographical overlay. You may be required to specify a "geo" parameter in boolean "True" or "False" logic. Additionally you will likely need to specify "Longitude" and "Lattitude" as parameters for the graph to plot. 
 
-![<alt text>](https://postimg.cc/jwh9mFNG)
+![<alt text>](https://i.postimg.cc/j2VbwVjd/Screen-Shot-2022-05-26-at-10-53-59-AM.png)
 
 ## Contributors
 
